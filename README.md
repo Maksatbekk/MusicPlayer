@@ -14,7 +14,18 @@ These features are implemented with the help of :-
 4. SQLite Database
 5. Adapters.
 
+<table>
+  <tr>
+    <td>Main window</td>
+    <td>Player window</td>
+  </tr>
+  <tr>
+    <td><img src="https://user-images.githubusercontent.com/49745411/102716946-5123cf00-4309-11eb-8c8a-3c80cbf2e1b6.png" width=400></td>
+    <td><img src="https://user-images.githubusercontent.com/49745411/102717022-d4ddbb80-4309-11eb-86cf-88014ee59cad.png" width=400></td>
+  </tr>
+ </table>
+
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/49745411/102716946-5123cf00-4309-11eb-8c8a-3c80cbf2e1b6.png" width="650" height="480">                                                                                                                                         
-  <img src="https://user-images.githubusercontent.com/49745411/102717022-d4ddbb80-4309-11eb-86cf-88014ee59cad.png" width="750" height="530">
+  
   <img src="https://user-images.githubusercontent.com/49745411/102717024-d9a26f80-4309-11eb-9f08-6ac3a86ae3bc.png" width="750" height="530">
